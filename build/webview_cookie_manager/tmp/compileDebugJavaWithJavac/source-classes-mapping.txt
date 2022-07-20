@@ -1,0 +1,5 @@
+io/flutter/plugins/webview_cookie_manager/WebviewCookieManagerPlugin.java
+ io.flutter.plugins.webview_cookie_manager.WebviewCookieManagerPlugin
+ io.flutter.plugins.webview_cookie_manager.WebviewCookieManagerPlugin$1
+io/flutter/plugins/webview_cookie_manager/BuildConfig.java
+ io.flutter.plugins.webview_cookie_manager.BuildConfig

@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/sidepe/uni_web/BuildConfig.java
+ com.sidepe.uni_web.BuildConfig
